@@ -1,0 +1,7 @@
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\bin\Debug\SimpleTokenGrabber.exe.config
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\bin\Debug\SimpleTokenGrabber.exe
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\bin\Debug\SimpleTokenGrabber.pdb
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\obj\Debug\SimpleTokenGrabber.csprojAssemblyReference.cache
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\obj\Debug\SimpleTokenGrabber.csproj.CoreCompileInputs.cache
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\obj\Debug\SimpleTokenGrabber.exe
+C:\Users\lolga\source\repos\SimpleTokenGrabber\SimpleTokenGrabber\obj\Debug\SimpleTokenGrabber.pdb
